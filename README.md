@@ -11,9 +11,7 @@ Daeho Lee, Myeong-Ha Hwang, Sechan Lee and Gwan-Su Yi*
 
 ## Overview
 
-
-
-![Main](https://user-images.githubusercontent.com/35724555/160765411-392ebce5-5a95-46f8-b93c-0046599c39df.png)
+![Main](https://github.com/MyeongHaHwang/DrugMecha/assets/35724555/f5c5f196-52a3-44ba-88e3-2150cef2c243.png)
 
 
 ## Funding
