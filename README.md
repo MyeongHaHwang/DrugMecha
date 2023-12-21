@@ -1,15 +1,15 @@
-# DrugMecha: A Database of the Drug Mechanisms based on Text Mining in PubChem Bioassay
+# DrugMecha: A Database of the Drug Mechanisms based on Text Mining using Bioassay Literature Information
 
 Korea Advanced Institute Science and Technology(KAIST)
 
 Synergistic Bioinformatics Laboratory(SynbiLab)
 
 Daeho Lee, Myeong-Ha Hwang, Sechan Lee and Gwan-Su Yi*
-* First Author: hmh929@kaist.ac.kr
+* First Author: daeho715@kaist.ac.kr, hmh929@kaist.ac.kr
 * Correspondence: gwansuyi@kaist.ac.kr
 
 
-## Abstract
+## Overview
 
 
 
